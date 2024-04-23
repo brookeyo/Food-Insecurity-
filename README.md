@@ -8,5 +8,6 @@
 # Purpose
 - possible venture? 
 # Data Visulation
-![alt-text](https://www.datawrapper.de/_/Kvqdh/)
+![data-viz](/desktop/Kidslunchfree.png)
+![data-viz](/desktop/Averageincome.png)
 
