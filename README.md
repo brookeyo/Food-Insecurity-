@@ -9,5 +9,5 @@
 - possible venture? 
 # Data Visulation
 ![data-viz](/Kidslunchfree.png)
-![data-viz](/Averageincome.png)
+
 ![data-viz](/Foodinsecurity.png)
