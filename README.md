@@ -8,6 +8,6 @@
 # Purpose
 - possible venture? 
 # Data Visulation
-![data-viz](/desktop/Kidslunchfree.png)
-![data-viz](/desktop/Averageincome.png)
+![data-viz](/Kidslunchfree.png)
+![data-viz](/Averageincome.png)
 
