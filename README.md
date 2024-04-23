@@ -1,10 +1,12 @@
 # Food insecurity within the Southern US 
-- This respoitory contains the instructions and contents used to explore the food insecurity and the average family income within the Southern states of the US
+- This respoitory contains the instructions and contents used to explore the correlation between food insecurity and the average family income within the Southern states of the US
 - To get started, download the linked Phyton notebook and follow along 
 # Content and Source
 - Orginal CountyHealthData_2014-2015.csv
 - Phyton notebook, detailing the steps to create a subset of data
 - New .csv file of the created subset 
 # Purpose
-- This data can be used make a supportive argument 
+- possible venture? 
 # Data Visulation
+![alt-text](https://www.datawrapper.de/_/Kvqdh/)
+
