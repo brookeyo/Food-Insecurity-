@@ -8,7 +8,7 @@
 - 3 data visualizations using subset
 # Possible Usage
 - Indviduals wishing to educate theirselves on the snowball effect of food insecurity  
-- This data could also be used to develop plans to correct food scarcity 
+- This data could also be used to develop plans to correct food scarcity and insecuirty 
 # Data Visualizations
 ![data-viz](/Visualizations/Kidslunchfree.png)
 ![data.viz](/Visualizations/Medianincome.png)
