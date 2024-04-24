@@ -11,8 +11,8 @@
 - This data could also be used to develop plans to correct food scarcity and insecuirty 
 # Data Visualizations
 
-This map displays the amount of students who are eligible for free lunch; this is based off of the childs family's income. You might notcie that both Virgina and Tennessse are gray, indicating that their was not data indicating that any children were elgible for free lunch. 
 ![data-viz](/Visualizations/Kidslunchfree.png)
+- The map above displays the amount of students who are eligible for free lunch; this is based off of the childs family's income. You might notcie that both Virgina and Tennessse are gray, indicating that their was not data pertaining to childrenbeing elgible fot free lunch.
 
 ![data.viz](/Visualizations/Medianincome.png)
 
