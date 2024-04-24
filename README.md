@@ -10,6 +10,7 @@
 - Indviduals wishing to educate theirselves on the snowball effect of food insecurity  
 - This data could also be used to develop plans to correct food scarcity 
 # Data Visualizations
-![data-viz](/Kidslunchfree.png)
-![data.viz](/Medianincome.png)
-![data-viz](/Foodinsecurity.png)
+![data-viz](/Visualizations/Kidslunchfree.png)
+![data.viz](/Visualizations/Medianincome.png)
+![data-viz](/Visualizations/Foodinsecurity.png)
+# Acknowledgements
