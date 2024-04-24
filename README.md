@@ -7,9 +7,9 @@
 - New `.csv` file of the created subset
 - 3 data visualizations using subset
 # Possible Usage
-- Indviduals wishing to educate theirselves on the snowball effect of food insecurity  
+- Indviduals wishing to educate theirselves about widespread food insecurity  
 - This data could be used to develop plans to correct food scarcity and insecuirty
-- A data anylsis of this subset can allow indviduals to see the unbalanced 
+- A data anylsis of this subset can allow indviduals to see the association between a households income and their inability to access food 
 # Data Visualizations
 
 ![data-viz](/Visualizations/Kidslunchfree.png)
