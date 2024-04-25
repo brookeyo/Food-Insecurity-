@@ -7,9 +7,9 @@
 - New `.csv` file of the created subset
 - 3 data visualizations using subset
 # Possible Usage
-- Indviduals wishing to educate theirselves about widespread food insecurity  
-- This data could be used to develop plans to correct food scarcity and insecuirty
-- A data anylsis of this subset can allow indviduals to see the association between a households income and their inability to access food 
+- Indviduals wishing to educate themselves about widespread food insecurity  
+- This data could be used to develop plans to correct food scarcity
+- A data anylsis of this subset can allow indviduals to see the association between a households income and their inability to access food and how its affects trickles down
 # Data Visualizations
 
 ![data-viz](/Visualizations/Kidslunchfree.png)
