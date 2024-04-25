@@ -9,15 +9,17 @@
 # Possible Usage
 - Indviduals wishing to educate themselves about widespread food insecurity  
 - This data could be used to develop plans to correct food scarcity
-- A data anylsis of this subset can allow indviduals to see the association between a households income and their inability to access food and how its affects trickles down
+- A data anylsis of this subset can allow indviduals to see the association between a households income and their inability to access food
 # Data Visualizations
 
 ![data-viz](/Visualizations/Kidslunchfree.png)
-- The map above displays the amount of students who are eligible for free lunch; which is data based off the childs houshold income. You might notcie that both Virgina and Tennessse are gray, indicating that their was not data pertaining to children being eligible for free lunch.
+- The map above displays the amount of students who are eligible for free lunch; which is data based off the childs houshold income. You might notice that both Virgina and Tennessse are gray, indicating that their was not data pertaining to children being eligible for free lunch.
 
 ![data.viz](/Visualizations/Medianincome.png)
+- The map above depicts the median houshold income by state. As you can see; the majority of these southern states make less than $35,000 a year. That is roughly $46,000 a yr when adjusted using 2024 inflation rates. 
 
-![data-viz](/Visualizations/Foodinsecurity.png)
+![data-viz](/Vissualizations/Foodinsecurity.png)
+
 # Acknowledgements
 This repository was created as an assignment for Dr. Gotzler's ENGL105 class
 
